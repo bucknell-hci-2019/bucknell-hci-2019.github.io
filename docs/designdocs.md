@@ -119,7 +119,7 @@ You'll also need a decent video editor to put together sight and sound.
 ## How will this be assessed?
 You will be assessed in 3 different ways.
 
-- Most significantly, you will be assessed by me using the [following design document rubric](designdoc_rubric.pdf). **Please read through this carefully!** Note that functionality is actually a small portion of your grade. Documentation and reflection of your design process is weighted heavily. I will either email you my feedback or discuss it in-person with your group during class.
+- Most significantly, you will be assessed by me using the [following design document rubric](DesignDoc_rubric.pdf). **Please read through this carefully!** Note that functionality is actually a small portion of your grade. Documentation and reflection of your design process is weighted heavily. I will either email you my feedback or discuss it in-person with your group during class.
 
 - Each design sprint will include a demo day in which students will be assigned to give feedback to other groups. For that, we will use the _I like, I wish, What if_ that is common in Stanford's Design School. I will send your group the feedback from other students. A Google Form link will be posted in Slack.
 
