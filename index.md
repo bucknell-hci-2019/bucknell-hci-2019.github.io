@@ -17,8 +17,8 @@ In this course, we will study both people and technology to  understand the beha
 - **When:** 3:00 - 4:22pm, Tuesday/Thursday
 
 ## Resources
-- [Course Syllabus](docs/syllabus.html)
-- [Reading Schedule](docs/schedule.html)
+- [Syllabus](docs/syllabus.html)
+- [Schedule](docs/schedule.html)
 - [Design Doc Instructions](docs/designdocs.html)
 - [Slack Group](https://bucknellhci19.slack.com) \| [Sign Up](https://bucknellhci19.slack.com/signup)
 - [Design Resources](docs/resources.html)

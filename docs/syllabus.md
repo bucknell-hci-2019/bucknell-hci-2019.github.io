@@ -25,14 +25,19 @@ Given these stakes, we need to deeply consider _What is the best way for us to i
 
 Finally, you will be exposed to people who are paving the way for the next-generation of HCI. Through them, I hope that you will catch a glimpse of the future, and use this information to grab ahold of trends before they emerge.
 
-## Responsibilities
-### Participation, Professionalism, and Critique
-When the core content of a course involves people, engagement is absolutely critical. We will be doing design exercises in class, testing new software on each other, and providing critiques of each others' work. This portion of your grade is significantly higher in HCI than some of your other courses for this very reason. **Coffee up!** It involves (but is not limited to): showing up to class, actively engaging in class activities, submitting good questions for our weekly visitors
+## What you're expected to do
 
-### Reading, Watching, Listening
+### Reading, Watching, Listening (12%)
 Each week, [our course schedule](schedule.html) will contain a set of content you are asked to consume. Often this will involve short readings, YouTube videos, podcasts, or slide decks. My goal is to transform the lecture section of the course into a design studio as much as possible. While there will still be the occasional lecture, iterating through, presenting, and critiquing each others' designs is where you will really learn to build in a human-centered way.
 
-**I will give reading quizzes on this content.**
+**You are required to fill out a [content reflection form](https://goo.gl/forms/bU0K1N9tXzTDlpTl2) for each day there is required content.** There may be an occasional in-class quiz on this material.
+
+### Participation, Professionalism, and Critique (18%)
+When the core content of a course involves people, engagement is absolutely critical. We will be doing design exercises in class, testing new software on each other, and providing critiques of each others' work. This portion of your grade is significantly higher in HCI than some of your other courses for this very reason. **Coffee up!** It involves (but is not limited to): showing up to class, actively engaging in class activities, submitting good questions for our weekly visitors...
+
+**Visitors:** HCI is a diverse field. It has computer scientists, psychologists, sociologists, artists, and everything in between. Giving you one perspective (my perspective) would shed light on only a corner of an increasingly exciting field that is shaping how people engage with the world around them. As a result, we will have an opportunity to chat with people across this broad spectrum via Google Hangouts. What you need to do:
+- Submit a question in the `#questions` channel Slack for our guest by 5pm the _day before_ their visit.
+- Before 11am the morning of their call, indicate which current questions on Slack that you like (with emoji, a comment, whatever). We will ask the top 3-5 questions submitted each week.
 
 <!-- ### Reports on Design
 One of the goals of the course is for you to slowly begin to observe how people interact with the world around them, and how the way that we are designing our computers are helping or hurting us. As a result, I'll occasionally ask you to write about your analysis of usability testing or your experience in a design exercise or your observations on designs you see everyday.   
@@ -41,28 +46,24 @@ One of the goals of the course is for you to slowly begin to observe how people 
 - While you are more than welcome to make it a public post, Medium also has an option that limits visibility of the post _only to people who have the link_. This will allow me and your classmates to see your writing, but will hide your work from search engines and the general public.
 - You will submit the link of your post to the forum specified by the assignment. In general, this will either be Slack or our course wiki (hosted on Gitlab). -->
 
-### Video Visitors | Slack
-HCI is a diverse field. It has computer scientists, psychologists, sociologists, artists, and everything in between. Giving you one perspective (my perspective) would shed light on only a corner of an increasingly exciting field that is shaping how people engage with the world around them. As a result, we will have an opportunity to chat with people across this broad spectrum via Google Hangouts. What you need to do:
-- Submit a question in the `#questions` channel Slack for our guest by 5pm the _day before_ their visit.
-- Before 8:30am the morning of their call, indicate which current questions on Slack that you like (with emoji, a comment, whatever). We will ask the top 3-5 questions submitted each week.
-
-## Design Activities
+### Design Activities (50%)
 The core of the work in this class will fall under the broad category of "Design Activities" - worth 50% of your overall grade and will be completed in teams. These will involve creating new technology by utilizing a combination of the human-centered design process and the research-based insights that you will be exposed to. Design activities will focus on different domains (visual design, data visualization, affective computing, etc.) and with different goals (designing for others, designing for persuasion, designing for fun, etc.).
 
+### Design Manifesto and Portfolio (20%)
+At the end of the semester, each individual student will construct a website that acts as a design portfolio - linking to their work over the course of the semester. In addition, you will write a _design manifesto_ that promotes a philosophy for design, as is evidenced by your work over the semester. [Read more details here](manifesto.html).
 
-### Design Grading
-- [**Design Document Rubric:**](DesignDoc_rubric.pdf) A majority of your assignments will use this rubric. Rather than simply ask "Did you do this?", there will also be the question of "Did you do this _well_?". This often translates to "Did you successfully apply the concepts we learned in class to this assignment?". For example, if you build an app that is functional but breaks many design heuristics... that is **not** a successful application in this class.
+## How you are assessed
+- [**Design Document Rubric:**](DesignDoc_rubric.pdf) A majority of your assignments (including all design activities) will use a rubric that aligns with the learning goals articulated at the beginning of this document: your decisions are informed by the design process and design principles (35%), you can build working prototypes of your designs (35%), and you can effectively communicate your design to a broader audience (35%). Read the rubric and [design document page](designdocs.html) carefully to make sure you are aligning with my expectations.
 
 - **Group Work:** Group work can be challenging. As a result, in each group project, you will submit a brief assessment of you and your classmates' work. At the end of the semester, **I may use these assessments to reweight the group portion of your grade (either positively or negatively).**
 
-## Design Manifesto and Portfolio
-At the end of the semester, each individual student will construct a website that acts as a design portfolio - linking to their work over the course of the semester. In addition, you will write a _design manifesto_ that promotes a philosophy for design, as is evidenced by your work over the semester. [Read more details here](manifesto.html).
+- **Participation / Reading:** Participation and reading checkpoints are largely binary: acceptable vs. not acceptable. If I find that your reading responses are too shallow to reach an acceptable bar, I will contact you.
 
-## Grading Breakdown
-- **Participation and Critique:** 20%
+### Grading Breakdown
+- **Participation and Critique:** 18%
 - **Modules:** 50%
-- **Reading Checkins or Quizzes:** 10%
-- **Final Project:** 20%
+- **Reading Checkins and Quizzes:** 12%
+- **Design Manifesto and Portfolio:** 20%
 
 Note: If a student fails any single portion of the class, it is up to the instructor's discretion whether the student should pass the course as a whole.
 

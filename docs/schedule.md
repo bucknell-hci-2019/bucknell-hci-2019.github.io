@@ -1,7 +1,14 @@
 ---
 layout: page
-title: Reading Schedule
+title: Schedule
 ---
+
+### Deadlines throughout the semester
+- Reading/Watching/etc. [responses are due by 12pm on the deadline day](https://goo.gl/forms/bU0K1N9tXzTDlpTl2).
+- Visitor questions are due by 5pm the day _before_ their visit in the `#questions` channel on Slack. Voting on questions (with emoji) should be completed by 11am the day _of_ their visit.
+- Design activity deadlines are due _before class begins: 3pm_.
+
+-------------------------
 
 ## Week 1: HCI and HCD
 
@@ -10,7 +17,6 @@ title: Reading Schedule
 - **ASSIGNED:** [Good/Bad Design](../designs/goodbad_assn.html)
 
 #### Th. 1/17 **| Human-Centered Design**
-- _There will be a reading quiz on the following material_
 - READ: [Our Syllabus](syllabus.html)
 - READ (14 pages): _Excerpt from:_ [Don Norman's "The Design of Everyday Things"](https://drive.google.com/open?id=0B9wW7gtF6dvRVmhkckFpSTVsU0E)
 - Find something else online about "Human-Centered Design". It can be an example, a further description, or even a critique.
@@ -19,7 +25,6 @@ title: Reading Schedule
 
 #### Tu. 1/22 **| Need finding + Task Analysis**
 - **DUE:** [Good/Bad Design](../designs/goodbad_assn.html) (don't forget to bring printouts)
-- _There may be a quiz on this material. **This is true for all future readings**_
 - READ: [How to Understand Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-understand-problems.html)
 - READ: [How to Define Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html)
 
