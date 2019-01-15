@@ -38,7 +38,7 @@ _For examples of student work, see our [CSCI379 publication](https://medium.com/
 
 **Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of our finals slot_
 
-## Visitors
+## Visitors (TBA)
 _TBA_
 
 <!-- - 1/31: [Adam Marcus](http://marcua.net/), Co-founder and CTO of [B12](https://www.b12.io/)

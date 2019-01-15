@@ -5,8 +5,6 @@ exclude: true
 ---
 
 
-
-
 #### Visual Design Icons/Images/Media
 - [Bucknell's Music and Sound Resources:](http://researchbysubject.bucknell.edu/c.php?g=89792&p=579601) Bucknell students have access to a vast store of background music and sound that they can pay without licensing fees.
 - [Bucknell's Video Resources](http://researchbysubject.bucknell.edu/c.php?g=89792&p=579600): Similarly, Bucknell students have access to copyright- and royalty-free stock video footage.
@@ -71,3 +69,4 @@ a quick and dirty set of guidelines to think about when creating a user interfac
 
 ### Professional Resources
 - [HCI/Design Jobs for New College Grads](http://pgbovine.net/hci-design-jobs.htm)
+- [Navigating a Career in HCI Research (Meredith Ringel Morris)](https://cs.brown.edu/video/387/?quality=hires)
