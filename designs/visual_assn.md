@@ -9,13 +9,13 @@ exclude: true
 - **Design Doc Due:** 02/12, 12pm
 
 ## Overview
-**Before you begin:** Read this entire document and consider how you might want to split up work. This is a lot of work for an individual, but a perfectly reasonable amount for a team. Make sure that you can determine how to
+**Before you begin:** Read this entire document and consider how you might want to split up work. This is a lot of work for an individual, but a perfectly reasonable amount for a team. Make sure to determine the most effective way to use the members of your team. Also, make sure to read the expectations for your [design document](../docs/designdocs.html), along with the [rubric I'll use to grade you](../docs/DesignDoc_rubric.pdf)
 
 It's time to begin the design process. This first design sprint will force you to engage with three aspects of the design process:
 
 1. Visual Design
 2. Sketching for Ideation (using paper)
-3. Prototyping Tools (using [invision](invisionapp.com))
+3. Prototyping Tools (using [invision](https://www.invisionapp.com/education-signup), or another tool)
 
 Typically, a *critical* portion of the user-centered design process is getting feedback from real users. In the interest of time, we won't be doing that in this (short) design sprint. However, it doesn't mean that you are ignoring their needs...
 
@@ -61,7 +61,7 @@ Just as the important information may differ between groups, so might the styles
 
 Being able to articulate the correct mood and/or tone for your demographic is critical. How can you do that if you're not a professional designer? We'll use one strategy here.
 
-- [**Create a Mood Board:**](https://creativemarket.com/blog/mood-boards-why-and-how-to-create-them) You may not be able to design well for a particular group of people off the top of your head.. but if you had enough good examples, you'd probably be able to pick up on a few ideas - design patterns, color schemes, fonts. This is exactly what a mood board is for. As you search for websites or environments that are commonly visited by people in your target demographic, take pictures and then put them together in one space. There are some websites designed specifically to help you create mood boards (such as [moodily](https://moodilyapp.com/)). You can also just collaborate on a Google Slides doc.
+- [**Create a Mood Board:**](https://creativemarket.com/blog/mood-boards-why-and-how-to-create-them) You may not be able to design well for a particular group of people off the top of your head.. but if you had enough good examples, you'd probably be able to pick up on a few ideas - design patterns, color schemes, fonts. This is exactly what a mood board is for. As you search for websites or environments that are commonly visited by people in your target demographic, take pictures and then put them together in one space. For example, invision has some nice features that support [collaborative moodboards](https://support.invisionapp.com/hc/en-us/articles/115000622586-Mood-and-Brand-Boards-and-Beyond) - including the ability to automatically extract colors from an image.  
 
 - Consider the [design resources](../docs/resources.html) we have posted on our website. For example, if you can extract a color or two from your design board, there are tools that you can use to uncover complementary colors.
 
@@ -70,14 +70,14 @@ Being able to articulate the correct mood and/or tone for your demographic is cr
 ### Building your Website Prototype
 Now that you have your UI organization nailed down + a style guide... create your mobile website. To create an interactive prototype, we're going to using [invision](https://www.invisionapp.com/) - a prototyping, collaboration, & workflow platform. I have worked with the company to secure free accounts for you that will remain active until 6 months after you graduate. Please refer to our Slack group where I post the code you need to activate your free account. It might be a good idea to start with a tutorial.
 
-Invision is fantastic, but it isn't magic. You're still going to need to create the visuals yourself. While applications like Adobe Photoshop are likely among the most powerful tools you can use to generate screen mock-ups, I've even used tools as simple as PowerPoint before. Don't let the technology get in the way of your design. Try to use whatever tools in which you can be most effective.
+Invision is fantastic, but it isn't magic. _You're still going to need to create the visuals yourself._ While applications like Adobe Photoshop are likely among the most powerful tools you can use to generate screen mock-ups, I've even used tools as simple as PowerPoint before. Don't let the technology get in the way of your design. Try to use whatever tools in which you can be most effective.
 
-_Note: While I suggest Invision here, you may use other products as well. They key feature is that you can generate a link that allows you to share and demo your prototype_
+_Note: While I suggest Invision, you may use other products as well. They key feature is that you can generate a link that allows you to share and demo your prototype_
 
-**Output:** The redesigned homepage of your website on invision. There should be 3-4 other web pages that are linked on off the homepage that you have also redesigned.
+**Output:** The redesigned homepage of your website. There should be 3-4 other web pages that are linked on off the homepage that you have also redesigned.
 
 ## Deliverables
-- **Demo Day (2/07):** You should have an invision link handy and ready for you to present in class on the day of your demo. Your classmate will critique your work (using the _I like, I wish, What if_ framework) and also try to guess your target demographic... despite having no previous knowledge.
+- **Demo Day (2/07):** You should have an accessible link handy and ready for you to present in class on the day of your demo. Your classmate will critique your work (using the _I like, I wish, What if_ framework) and also try to guess your target demographic... despite having no previous knowledge.
 - **Delivery Day (2/12):** The output from this assignment should be the [design document](../docs/designdocs.html). Post the link to your post on this [assignment's page on our wiki](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-others). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a _minimum_ of the following:
   - pictures of your various sketches
   - a picture of your moodboard
