@@ -6,10 +6,10 @@ exclude: true
 
 - **Group size:** Teams of 4
 - **Demo Day:** 02/07 _in class_
-- **Design Doc Due:** 02/12, 12pm
+- **Design Doc Due:** 02/11, 8am
 
 ## Overview
-**Before you begin:** Read this entire document and consider how you might want to split up work. This is a lot of work for an individual, but a perfectly reasonable amount for a team. Make sure to determine the most effective way to use the members of your team. Also, make sure to read the expectations for your [design document](../docs/designdocs.html), along with the [rubric I'll use to grade you](../docs/DesignDoc_rubric.pdf)
+**Before you begin:** Read this entire document and consider how you might want to split up work. This is a lot of work for an individual, but a perfectly reasonable amount for a team. Make sure to determine the most effective way to use the members of your team. Also, make sure to read the expectations for your [design document](../docs/designdocs.html), along with the [rubric I'll use to grade you](../docs/DesignDoc_rubric.pdf).
 
 It's time to begin the design process. This first design sprint will force you to engage with three aspects of the design process:
 
@@ -36,6 +36,8 @@ You will be designing for a specific user group. On our demo day, we'll invite v
 - People who grew up in Lewisburg
 
 While you will not redesign the entire website, you should redesign _4-5_ pages on the website. One of those pages *must be the homepage*. The others must be accessible from the homepage.
+
+- **Example output:** [Old Theatre. New Look.](https://medium.com/@zmb004/old-theatre-new-look-79900cff887a) Zach Brill, Khai Nguyen, Matt Lenk
 
 ### Information Design
 

@@ -73,14 +73,13 @@ _OPTIONAL (Look through at least 1 of the following)_
 ## Week 4: Designing for Data
 
 #### Tu. 2/05 **| Design for Others Demo Day + Reflection**
-- **DUE:** [Design for Others Demo](../designs/visual_assn.html)
-
+- **DUE by class:** [Design for Others Demo](../designs/visual_assn.html)
 
 #### Th. 2/07 **| Data Vis Lecture**
+**DUE at 11:59pm:** [Design for Others Doc Due](../designs/visual_assn.html)
 - READ (long): [Chapter 1 of Data Visualization: A Practical Introduction by Kieran Healy](http://socviz.co/lookatdata.html)
 - WEBSITE: [Five Design Sheet Methodology for Visualization](http://fds.design/)
 - LOOK THROUGH: [Explorables](https://explorabl.es/all/)
-
 
 _OPTIONAL (Look through at least 1)_
 - READ/WATCH: [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73) \| [Accompanying Talk](https://www.youtube.com/watch?v=s0J6EDvlN30)

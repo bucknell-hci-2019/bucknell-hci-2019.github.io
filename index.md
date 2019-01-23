@@ -27,9 +27,9 @@ In this course, we will study both people and technology to  understand the beha
 _For examples of student work, see our [CSCI379 publication](https://medium.com/bucknell-hci/tagged/csci379-hci) page on [Bucknell HCI](https://medium.com/bucknell-hci)_
 
 - [Good Design, Bad Design](designs/goodbad_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknellhci19/wikis/goodbaddesign) \| _Due 1/22, 2:00pm_
+- [Design for Others](designs/visual_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknellhci19/wikis/design%20for%20others) \| _Demo 2/04_ \| _Doc 2/07_
 
 <!--
-- [Design for Others](designs/visual_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-others) \| _Demo 9/12_ \| _Doc 9/14_
  - [Design for Understanding](designs/datavis_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-understanding) \| _Demo 9/26_ \| _Doc 9/28_
 - [Design for Tension](designs/chatbot_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-tension) \| _Demo 10/12_ \| _Doc 10/15 (11pm)_
 - [Design for Fun](designs/gesture_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-fun) \| _10/26_ \| _10/29_
@@ -38,8 +38,8 @@ _For examples of student work, see our [CSCI379 publication](https://medium.com/
 
 **Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of our finals slot_
 
-## Visitors (TBA)
-_TBA_
+<!-- ## Visitors (TBA)
+_TBA_ -->
 
 <!-- - 1/31: [Adam Marcus](http://marcua.net/), Co-founder and CTO of [B12](https://www.b12.io/)
 - 2/12: (in person) [Ken Flerlage](https://www.kenflerlage.com/), Business Intelligence Architect at Bucknell
