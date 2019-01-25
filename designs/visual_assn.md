@@ -5,8 +5,8 @@ exclude: true
 ---
 
 - **Group size:** Teams of 4
-- **Demo Day:** 02/07 _in class_
-- **Design Doc Due:** 02/11, 8am
+- **Demo Day:** 02/05 _in class_
+- **Design Doc Due:** 02/07, 11:59pm
 
 ## Overview
 **Before you begin:** Read this entire document and consider how you might want to split up work. This is a lot of work for an individual, but a perfectly reasonable amount for a team. Make sure to determine the most effective way to use the members of your team. Also, make sure to read the expectations for your [design document](../docs/designdocs.html), along with the [rubric I'll use to grade you](../docs/DesignDoc_rubric.pdf).
