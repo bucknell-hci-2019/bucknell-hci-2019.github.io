@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Design Resources
-exclude: true
+title: Resources
 ---
 
+- [Lecture Notes and Resources from Class](https://drive.google.com/drive/folders/1gusFMbQ8Vf9CeI2P0YggH20VWXz6WslG?usp=sharing)
 
 #### Visual Design Icons/Images/Media
 - [Bucknell's Music and Sound Resources:](http://researchbysubject.bucknell.edu/c.php?g=89792&p=579601) Bucknell students have access to a vast store of background music and sound that they can pay without licensing fees.
