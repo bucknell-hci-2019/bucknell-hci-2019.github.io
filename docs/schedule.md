@@ -92,8 +92,6 @@ _OPTIONAL (Look through at least 1)_
 #### Tu. 2/12 **| Tableau Workshop**
 - **Tableau Workshop with [Ken Flerlage](https://www.kenflerlage.com/) - Business Intelligence Architect at Bucknell**
 - **BEFORE CLASS:** Install [Tableau Public](https://docs.google.com/a/bucknell.edu/document/d/1JStkKuQePhXsmMWd1JR30zPG723nJMYpGtW5s8lJZzM/edit?usp=drive_web) on your personal laptop
-- **DUE:** [Design for Others Design Doc](../designs/visual_assn.html)
-
 
 #### Th. 2/14 **| Hack Day + Interactive Vis**
 - _OPTIONAL_: [Interactive Data Visualization Slides (BIG FILE!)](https://drive.google.com/open?id=0B9wW7gtF6dvRYlZKTndqR2lRcFk)

@@ -79,8 +79,8 @@ _Note: While I suggest Invision, you may use other products as well. They key fe
 **Output:** The redesigned homepage of your website. There should be 3-4 other web pages that are linked on off the homepage that you have also redesigned.
 
 ## Deliverables
-- **Demo Day (2/07):** You should have an accessible link handy and ready for you to present in class on the day of your demo. Your classmate will critique your work (using the _I like, I wish, What if_ framework) and also try to guess your target demographic... despite having no previous knowledge.
-- **Delivery Day (2/12):** The output from this assignment should be the [design document](../docs/designdocs.html). Post the link to your post on this [assignment's page on our wiki](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-others). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a _minimum_ of the following:
+- **Demo Day (2/05):** You should have an accessible link handy and ready for you to present in class on the day of your demo. Your classmate will critique your work (using the _I like, I wish, What if_ framework) and also try to guess your target demographic... despite having no previous knowledge.
+- **Delivery Day (2/07):** The output from this assignment should be the [design document](../docs/designdocs.html). Post the link to your post on this [assignment's page on our wiki](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-others). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a _minimum_ of the following:
   - pictures of your various sketches
   - a picture of your moodboard
   - pictures of your final product (more broadly, the evolution of your design should be clear)
