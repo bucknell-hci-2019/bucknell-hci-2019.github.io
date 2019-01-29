@@ -24,12 +24,21 @@ Before you begin, choose a dataset. While you may use any dataset, be aware that
 - [_Datasets underlying FiveThirtyEight stories_](https://github.com/fivethirtyeight/data): Mostly cleaned, but may come in different formats.
 - [_Data is Plural newsletter_](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk): fascinating datasets, but may not be cleaned/curated
 
-### Your Technology
-There are a wide variety of data visualization tools.
+**Do something interesting!** I implore you to choose a topic that you find interesting and to dig into it. In the past, I've found that students sometimes gravitate towards the first cleaned data that they find. Don't let this limit the value of your output. What is a story that is _worth telling_ with data? What is a story that _people should see_ related to data?
 
-- [**Vega**](https://vega.github.io/vega/) or [**Vega-Lite:**](https://vega.github.io/vega-lite/) These are both templating tools that sit on top of the very popular d3js visualization library. While they are less expressive than d3js, they will allow you to rapidly (hopefully) construct data visualizations. Vega will allow you to be a little more creative and integrate interaction (_recommended_).
+### Your Technology
+There are a wide variety of data visualization tool you can use.
+
+- [**d3js**](https://d3js.org/): Probably the most popular data visualization library that is both powerful and flexible. However, it also has a steep learning curve - especially for people who are not comfortable with javascript and web programming. Given the very short timelines of our projects, I would only go this route if you have someone very skilled in web development on your team.
+
+- [**Vega**](https://vega.github.io/vega/) or [**Vega-Lite:**](https://vega.github.io/vega-lite/) These are both templating tools that sit on top of the d3js visualization library. While they are less expressive than d3js, they will allow you to rapidly (hopefully) construct data visualizations. Vega will allow you to be a little more creative and integrate interaction (_recommended_).
+
+- [**Chart.js**](https://www.chartjs.org/): a javascript library that supports easy creation of basic chart types. This will limit your flexibility, but if you want to use basic charts, it's a quick way to get rolling.
 
 - [**P5js**](https://p5js.org/): p5js is an expressive, accessible javascript library that enables pixel-level control. While it is more difficult to construct basic charts than vega or vega-lite, it empowers more creative interpretations of data that are either more abstract or that incorporate sound.
+
+- [**Tableau Public**](https://docs.google.com/a/bucknell.edu/document/d/1JStkKuQePhXsmMWd1JR30zPG723nJMYpGtW5s8lJZzM/edit?usp=drive_web): heavily used in business intelligence, this is the free version that can connect to a spreadsheet/file to create data visualizations for the web.
+
 
 ### Your Two Portraits
 
