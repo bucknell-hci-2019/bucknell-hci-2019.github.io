@@ -76,7 +76,7 @@ _OPTIONAL (Look through at least 1 of the following)_
 - **DUE by class:** [Design for Others Demo](../designs/visual_assn.html)
 
 #### Th. 2/07 **| Data Vis Lecture**
-**DUE at 11:59pm:** [Design for Others Doc Due](../designs/visual_assn.html)
+- **DUE at 11:59pm:** [Design for Others Doc Due](../designs/visual_assn.html)
 - READ (long): [Chapter 1 of Data Visualization: A Practical Introduction by Kieran Healy](http://socviz.co/lookatdata.html)
 - WEBSITE: [Five Design Sheet Methodology for Visualization](http://fds.design/)
 - LOOK THROUGH: [Explorables](https://explorabl.es/all/)
@@ -96,8 +96,16 @@ _OPTIONAL (Look through at least 1)_
 #### Th. 2/14 **| Hack Day + Interactive Vis**
 - _OPTIONAL_: [Interactive Data Visualization Slides (BIG FILE!)](https://drive.google.com/open?id=0B9wW7gtF6dvRYlZKTndqR2lRcFk)
 
-<!--
 ## Week 6
+
+#### Tu. 2/19 **| More Vis Work**
+- Continue to work on visit
+
+#### Th. 2/21 **| Vis Demos**
+- **DUE by class:** [Design for Understanding Demo Day](../designs/datavis_assn.html)
+
+
+<!-- ## Week 6
 
 #### Tu. 2/19 **| User Testing**
 - READ (22 slides): [User Testing by Prof. Peck](https://drive.google.com/open?id=0B9wW7gtF6dvRZkxSWksybVk5WTg)
@@ -105,15 +113,31 @@ _OPTIONAL (Look through at least 1)_
 
 
 #### Th. 2/21 **| Crowdsourcing + Social Psych**
-- DUE: [Design for Understanding Demo](../designs/datavis_assn.html)
+- DUE: [Design for Understanding Demo](../designs/datavis_assn.html) -->
+
+
+
+<!-- ## Week 7
+
+Prof. Peck gone at SIGCSE. -->
+
+<!-- #### To Do
+- READ: [How Uber Uses Psychological Tricks to Push Its Drivers' Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?_r=0)
+- READ: [HCI and Collective Intelligence (Jeff Bigham, Michael Bernstein, & Eytan Adar)](http://www.cond.org/ci-chapter.pdf)
+- _REFERENCE:_ [People + Computation Slides from Prof. Peck](https://drive.google.com/open?id=0B9wW7gtF6dvRZjhobWktUHNXMms)
+
+_OPTIONAL_
+- [The Intellectual Challenge of CSCW: The Gap Between Social Requirements and Technical Feasibility (Mark Ackerman)](http://web.eecs.umich.edu/~ackerm/pub/00a10/hci.final.pdf) -->
+
+
+<!--
+
 - READ: [How Uber Uses Psychological Tricks to Push Its Drivers' Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?_r=0)
 - READ: [HCI and Collective Intelligence (Jeff Bigham, Michael Bernstein, & Eytan Adar)](http://www.cond.org/ci-chapter.pdf)
 - _REFERENCE:_ [People + Computation Slides from Prof. Peck](https://drive.google.com/open?id=0B9wW7gtF6dvRZjhobWktUHNXMms)
 
 _OPTIONAL_
 - [The Intellectual Challenge of CSCW: The Gap Between Social Requirements and Technical Feasibility (Mark Ackerman)](http://web.eecs.umich.edu/~ackerm/pub/00a10/hci.final.pdf)
-
-## Week 7
 
 #### Tu. 2/26 **| Conversational Interfaces**
 - DUE: [Design for Understanding Doc](../designs/datavis_assn.html)

@@ -4,9 +4,9 @@ title: Design for Understanding
 exclude: true
 ---
 
-- **Group size:** Assigned teams of 4 (likely working pairs)
-- **Demo Day:** 2/26 _in class_
-- **Design Doc Due:** 9/28, 12pm
+- **Group size:** Assigned teams of 4
+- **Demo Day:** 2/21 _in class_
+- **Design Doc Due:** 2/26, 12pm
 
 
 ## Overview
@@ -27,7 +27,7 @@ Before you begin, choose a dataset. While you may use any dataset, be aware that
 **Do something interesting!** I implore you to choose a topic that you find interesting and to dig into it. In the past, I've found that students sometimes gravitate towards the first cleaned data that they find. Don't let this limit the value of your output. What is a story that is _worth telling_ with data? What is a story that _people should see_ related to data?
 
 ### Your Technology
-There are a wide variety of data visualization tool you can use.
+There are a wide variety of data visualization tool you can use. Personally, I find p5js a joy for creative, expressive content (and we may use it again later in the semester)... but feel free to use whatever accomplishes your goals.
 
 - [**d3js**](https://d3js.org/): Probably the most popular data visualization library that is both powerful and flexible. However, it also has a steep learning curve - especially for people who are not comfortable with javascript and web programming. Given the very short timelines of our projects, I would only go this route if you have someone very skilled in web development on your team.
 
@@ -59,9 +59,9 @@ Just build it. Note that you may run into tensions between your imagined visuali
 ## Deliverables
 - As always: Your design reflection as a Medium blog post. Like the last assignment, **you do not need a demo video**. However, if your visualizations contain interactive or animated elements, those should be captured in some way - for example a gif.
   - Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.
-- Both of your designs should be hosted either on Bucknell's servers with publicly accessible links. These links should be clearly included into your design reflection.
+- Both of your designs should be hosted with publicly accessible links. These links should be clearly included into your design reflection.
 
--------------------
+
 <!-- ## Some Tech Tips
 Over the past summer, I had another student - Gabbi LaBorwitt ('20) - complete each of these assignments to help me determine where students might encounter problems. From this project on, I will include her notes on the tech you'll be using.
 
@@ -82,43 +82,17 @@ _If you've never hosted a website on Bucknell's Linux servers before, here's how
 ### Option 2: Use a service with free web hosting  -->
 
 
--------------------
+------------
 
 ## Tips for Getting Data into p5js
 
-### Getting started
   1. Use the [P5js online editor](https://editor.p5js.org/) editor
-  2. Go through [this](https://p5js.org/get-started/) ~2 minute tutorial. It's extremely helpful and even if you already know what you're doing you get to make a pretty fun demo and you'll need the documents later on in the assignment.
+  2. Go through [this](https://creative-coding.decontextualize.com/first-steps/) tutorial to get a sense of what p5 is and how to use it.
+  3. If you're not familiar with javascript arrays, check out [this tutorial](https://creative-coding.decontextualize.com/arrays-and-objects/)... otherwise, skip ahead to [using csvs in p5js](https://creative-coding.decontextualize.com/csv-files/).
 
 
-### Creating a data table
-  1. Once you've chosen a dataset to work with, download the data as a `.csv` file and save it in your working directory.
-   - To make life easier, use the empty-example folder from the tutorial as your working directory and work out of the index.html and sketch.js files within it.
-  2. Delete the code in your sketch.js. Replace it with the the code found [here](https://p5js.org/reference/#/p5/loadTable).
-   - This just makes it so we don't have to create an entirely new file and reconnect all the documents.
-  3. In the third line of actual code (not including comments) replace `"assets/mammals.csv"` with the file path to the .csv file you're using.
-    - Your third line of code should now look something like this:
-    `table = loadTable("FILENAME.csv", "csv", "header")`
-  4. Look over the sketch.js example I provided. It's marked it up with comprehensive explanations and places you need to change the code around. Make sure you read over it before proceeding to the next step.
-    - You can try running it with your
-    index.html file if you want to see it in action.
-  5. Now that you've read how, in your sketch.js code change ``"name"`` in the line `print(table.getColumn("name"));` to the column you're trying to get (if you haven't already).
 
-
-### Viewing your table
-  1. Run your index.html document on a web browser
-  2. Open up developer tools
-    - *[This article](https://www.lifewire.com/web-browser-developer-tools-3988965) shows how to open the developer toolbox on any browser*
-  3. Click on the "javascript console" tab in your developer toolbox (might just be "console" on some browsers).
-  4. You should now be able to see the "printed" statements from your sketch.js document.
-
-### Build your story
-The options here are too diverse to describe in a single point. However, if you want to start with existing code, see my [15 Years of Mass Shootings in America](https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America) github repository.
-
-
----------
-
-## Tips for Vega Lite (or Vega)
+<!-- ## Tips for Vega Lite (or Vega)
 
 ### Introducing Vega-Lite:
   1. Open up Vega-Lite's [online editor](https://vega.github.io/new-editor/?mode=vega-lite) to work out of
@@ -138,4 +112,4 @@ The options here are too diverse to describe in a single point. However, if you 
   1. Once you're diagram is finished open the `index.html` in the `public_html` folder that you created earlier in a text editor.
   2. Delete anything that's already in the file and use the code given [here](https://vega.github.io/vega-lite/tutorials/getting_started.html#embed) (if your computer isn't already there, go to the section titled "Publish your Visualization Online") to guide you in adding your chart or graph to your webpage.
       - Don't forget to include `var vlSpec = {` before entering your diagram code as well as the optional code for vega-lite that we need `var opt = {"mode": "vega-lite"};` towards the bottom.
-  3. Once completed, you should be able to see your diagram
+  3. Once completed, you should be able to see your diagram -->

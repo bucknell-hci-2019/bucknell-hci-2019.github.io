@@ -123,9 +123,9 @@
   </header>
   <div class="post-content">
     <ul>
-  <li><strong>Group size:</strong> Assigned teams of 4 (likely working pairs)</li>
-  <li><strong>Demo Day:</strong> 2/26 <em>in class</em></li>
-  <li><strong>Design Doc Due:</strong> 9/28, 12pm</li>
+  <li><strong>Group size:</strong> Assigned teams of 4</li>
+  <li><strong>Demo Day:</strong> 2/21 <em>in class</em></li>
+  <li><strong>Design Doc Due:</strong> 2/26, 12pm</li>
 </ul>
 
 <h2 id="overview">Overview</h2>
@@ -153,7 +153,7 @@
 <p><strong>Do something interesting!</strong> I implore you to choose a topic that you find interesting and to dig into it. In the past, I’ve found that students sometimes gravitate towards the first cleaned data that they find. Don’t let this limit the value of your output. What is a story that is <em>worth telling</em> with data? What is a story that <em>people should see</em> related to data?</p>
 
 <h3 id="your-technology">Your Technology</h3>
-<p>There are a wide variety of data visualization tool you can use.</p>
+<p>There are a wide variety of data visualization tool you can use. Personally, I find p5js a joy for creative, expressive content (and we may use it again later in the semester)… but feel free to use whatever accomplishes your goals.</p>
 
 <ul>
   <li>
@@ -201,10 +201,9 @@
       <li>Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.</li>
     </ul>
   </li>
-  <li>Both of your designs should be hosted either on Bucknell’s servers with publicly accessible links. These links should be clearly included into your design reflection.</li>
+  <li>Both of your designs should be hosted with publicly accessible links. These links should be clearly included into your design reflection.</li>
 </ul>
 
-<hr />
 <!-- ## Some Tech Tips
 Over the past summer, I had another student - Gabbi LaBorwitt ('20) - complete each of these assignments to help me determine where students might encounter problems. From this project on, I will include her notes on the tech you'll be using.
 
@@ -228,80 +227,33 @@ _If you've never hosted a website on Bucknell's Linux servers before, here's how
 
 <h2 id="tips-for-getting-data-into-p5js">Tips for Getting Data into p5js</h2>
 
-<h3 id="getting-started">Getting started</h3>
 <ol>
   <li>Use the <a href="https://editor.p5js.org/">P5js online editor</a> editor</li>
-  <li>Go through <a href="https://p5js.org/get-started/">this</a> ~2 minute tutorial. It’s extremely helpful and even if you already know what you’re doing you get to make a pretty fun demo and you’ll need the documents later on in the assignment.</li>
+  <li>Go through <a href="https://creative-coding.decontextualize.com/first-steps/">this</a> tutorial to get a sense of what p5 is and how to use it.</li>
+  <li>If you’re not familiar with javascript arrays, check out <a href="https://creative-coding.decontextualize.com/arrays-and-objects/">this tutorial</a>… otherwise, skip ahead to <a href="https://creative-coding.decontextualize.com/csv-files/">using csvs in p5js</a>.</li>
 </ol>
 
-<h3 id="creating-a-data-table">Creating a data table</h3>
-<ol>
-  <li>Once you’ve chosen a dataset to work with, download the data as a <code class="highlighter-rouge">.csv</code> file and save it in your working directory.
-    <ul>
-      <li>To make life easier, use the empty-example folder from the tutorial as your working directory and work out of the index.html and sketch.js files within it.</li>
-    </ul>
-  </li>
-  <li>Delete the code in your sketch.js. Replace it with the the code found <a href="https://p5js.org/reference/#/p5/loadTable">here</a>.
-    <ul>
-      <li>This just makes it so we don’t have to create an entirely new file and reconnect all the documents.</li>
-    </ul>
-  </li>
-  <li>In the third line of actual code (not including comments) replace <code class="highlighter-rouge">"assets/mammals.csv"</code> with the file path to the .csv file you’re using.
-    - Your third line of code should now look something like this:
-    <code class="highlighter-rouge">table = loadTable("FILENAME.csv", "csv", "header")</code></li>
-  <li>Look over the sketch.js example I provided. It’s marked it up with comprehensive explanations and places you need to change the code around. Make sure you read over it before proceeding to the next step.
-    - You can try running it with your
-    index.html file if you want to see it in action.</li>
-  <li>Now that you’ve read how, in your sketch.js code change <code class="highlighter-rouge">"name"</code> in the line <code class="highlighter-rouge">print(table.getColumn("name"));</code> to the column you’re trying to get (if you haven’t already).</li>
-</ol>
+<!-- ## Tips for Vega Lite (or Vega)
 
-<h3 id="viewing-your-table">Viewing your table</h3>
-<ol>
-  <li>Run your index.html document on a web browser</li>
-  <li>Open up developer tools
-    - <em><a href="https://www.lifewire.com/web-browser-developer-tools-3988965">This article</a> shows how to open the developer toolbox on any browser</em></li>
-  <li>Click on the “javascript console” tab in your developer toolbox (might just be “console” on some browsers).</li>
-  <li>You should now be able to see the “printed” statements from your sketch.js document.</li>
-</ol>
+### Introducing Vega-Lite:
+  1. Open up Vega-Lite's [online editor](https://vega.github.io/new-editor/?mode=vega-lite) to work out of
+  2. Look through the charts and graphs we're given (found in the dropdown menu) to see the different possibilities for visualizing data with Vega-Lite.
+  3. Go through their first two [tutorials](https://vega.github.io/vega-lite/tutorials/getting_started.html#embed) titled "The Data" and "Encoding Data with Marks". Code along with the tutorial in order to get a better feel for the library. Some helpful tips:
+      1. Entire code should be wrapped in `{}`.
+      2. Almost every value you enter must be wrapped in `""`– excludes punctuation and numerical values in the `data: values` field.
+      3. The `encoding` field is where you'll enter the bulk of the information about your dataset. Most importantly the x- and y-axis data go here. *[Learn about the different data types here](https://vega.github.io/vega-lite/docs/encoding.html#data-type)*.
+      4. Create a legend using [this documentation](https://vega.github.io/vega-lite/docs/legend.html).
+  4. When you're done going through the tutorial, use the data found in [this](https://github.com/plotly/datasets/blob/master/2014_apple_stock.csv) csv file to create a chart or graph.
+      - To use data from an online link, replace `"data": { "values": [..] },` with <br> `"data": { "url": "URL", "format": {"type": "TYPE"} },` where `TYPE` is the type of file used (csv in our case).
+      - When you're entering the x- and y-axis "fields", instead of typing `a` and `b` you'll type in the names of the columns you'd like to display the data for. In this example there are only two columns so your x field would be "AAPL_x" and your y-field would be "AAPL_y".
+  5. Once you finish playing around with your chart or feel like you understand how the code works, move on to the next task.
 
-<h3 id="build-your-story">Build your story</h3>
-<p>The options here are too diverse to describe in a single point. However, if you want to start with existing code, see my <a href="https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America">15 Years of Mass Shootings in America</a> github repository.</p>
 
-<hr />
-
-<h2 id="tips-for-vega-lite-or-vega">Tips for Vega Lite (or Vega)</h2>
-
-<h3 id="introducing-vega-lite">Introducing Vega-Lite:</h3>
-<ol>
-  <li>Open up Vega-Lite’s <a href="https://vega.github.io/new-editor/?mode=vega-lite">online editor</a> to work out of</li>
-  <li>Look through the charts and graphs we’re given (found in the dropdown menu) to see the different possibilities for visualizing data with Vega-Lite.</li>
-  <li>Go through their first two <a href="https://vega.github.io/vega-lite/tutorials/getting_started.html#embed">tutorials</a> titled “The Data” and “Encoding Data with Marks”. Code along with the tutorial in order to get a better feel for the library. Some helpful tips:
-    <ol>
-      <li>Entire code should be wrapped in <code class="highlighter-rouge">{}</code>.</li>
-      <li>Almost every value you enter must be wrapped in <code class="highlighter-rouge">""</code>– excludes punctuation and numerical values in the <code class="highlighter-rouge">data: values</code> field.</li>
-      <li>The <code class="highlighter-rouge">encoding</code> field is where you’ll enter the bulk of the information about your dataset. Most importantly the x- and y-axis data go here. <em><a href="https://vega.github.io/vega-lite/docs/encoding.html#data-type">Learn about the different data types here</a></em>.</li>
-      <li>Create a legend using <a href="https://vega.github.io/vega-lite/docs/legend.html">this documentation</a>.</li>
-    </ol>
-  </li>
-  <li>When you’re done going through the tutorial, use the data found in <a href="https://github.com/plotly/datasets/blob/master/2014_apple_stock.csv">this</a> csv file to create a chart or graph.
-    <ul>
-      <li>To use data from an online link, replace <code class="highlighter-rouge">"data": { "values": [..] },</code> with <br /> <code class="highlighter-rouge">"data": { "url": "URL", "format": {"type": "TYPE"} },</code> where <code class="highlighter-rouge">TYPE</code> is the type of file used (csv in our case).</li>
-      <li>When you’re entering the x- and y-axis “fields”, instead of typing <code class="highlighter-rouge">a</code> and <code class="highlighter-rouge">b</code> you’ll type in the names of the columns you’d like to display the data for. In this example there are only two columns so your x field would be “AAPL_x” and your y-field would be “AAPL_y”.</li>
-    </ul>
-  </li>
-  <li>Once you finish playing around with your chart or feel like you understand how the code works, move on to the next task.</li>
-</ol>
-
-<h3 id="publishing-your-visualization">Publishing your Visualization:</h3>
-<ol>
-  <li>Once you’re diagram is finished open the <code class="highlighter-rouge">index.html</code> in the <code class="highlighter-rouge">public_html</code> folder that you created earlier in a text editor.</li>
-  <li>Delete anything that’s already in the file and use the code given <a href="https://vega.github.io/vega-lite/tutorials/getting_started.html#embed">here</a> (if your computer isn’t already there, go to the section titled “Publish your Visualization Online”) to guide you in adding your chart or graph to your webpage.
-    <ul>
-      <li>Don’t forget to include <code class="highlighter-rouge">var vlSpec = {</code> before entering your diagram code as well as the optional code for vega-lite that we need <code class="highlighter-rouge">var opt = {"mode": "vega-lite"};</code> towards the bottom.</li>
-    </ul>
-  </li>
-  <li>Once completed, you should be able to see your diagram</li>
-</ol>
+### Publishing your Visualization:
+  1. Once you're diagram is finished open the `index.html` in the `public_html` folder that you created earlier in a text editor.
+  2. Delete anything that's already in the file and use the code given [here](https://vega.github.io/vega-lite/tutorials/getting_started.html#embed) (if your computer isn't already there, go to the section titled "Publish your Visualization Online") to guide you in adding your chart or graph to your webpage.
+      - Don't forget to include `var vlSpec = {` before entering your diagram code as well as the optional code for vega-lite that we need `var opt = {"mode": "vega-lite"};` towards the bottom.
+  3. Once completed, you should be able to see your diagram -->
 
   </div>
 
