@@ -104,6 +104,27 @@ _OPTIONAL (Look through at least 1)_
 #### Th. 2/21 **| Vis Demos**
 - **DUE by class:** [Design for Understanding Demo Day](../designs/datavis_assn.html)
 
+## Week 7: Sampling the Future
+_Prof. Peck is gone at SIGCSE 2019_
+
+## Week 8: Crowds and input
+
+#### Tu 3/5 **| From Person to People**
+- **DUE by class:** [Design for Understanding Demo Day](../designs/datavis_assn.html)
+- Lecture on Human Computation + Social Psychology
+
+#### Th 3/7 **| Input Bonanza**
+- _Design for Expression Launch_
+
+**WATCH** at least 5 of the following:
+- ACM UIST (User Interface Software and Technology Symposium): [UIST 2016](https://www.youtube.com/watch?v=8tX1XNq96pQ), [UIST 2017](https://www.youtube.com/watch?v=UXsztFr84fw), [UIST 2018](https://www.youtube.com/watch?v=UXsztFr84fw)
+- ACM CHI (Human Factors in Computing Systems - the premier international conference of HCI):  [CHI 2016](https://www.youtube.com/watch?v=dUDHQNuCKWQ), [CHI 2017](https://www.youtube.com/watch?v=9pSeJWXcOvM), [CHI 2018](https://www.youtube.com/watch?v=-rQxyvxuv1U)
+- VRST (Virtual Reality Software and Technology): [VRST 2017](https://www.youtube.com/watch?v=zd5zNo8vQEk)
+- ISS (Interactive Surfaces and Spaces): [ISS 2018](https://www.youtube.com/watch?v=Uv98I3l5h80)
+- (_scroll through_) TEI (Tangible, Embedded, and Embodied Interactions): [TEI 2019](https://www.facebook.com/teiconf/)
+
+Pick your 3 favorites. Google them and try to find a demo video (or at least a paper reference). Paste those into the `#resources` channel on Slack.
+
 
 <!-- ## Week 6
 
