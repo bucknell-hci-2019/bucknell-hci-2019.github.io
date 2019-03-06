@@ -123,22 +123,41 @@
   </header>
   <div class="post-content">
     <ul>
-  <li><strong>Group size:</strong> Teams of 4</li>
-  <li><strong>Demo Day:</strong> 10/26 <em>in class</em></li>
-  <li><strong>Design Doc Due:</strong> 10/29, 11pm</li>
+  <li><strong>Demo Day:</strong> 03/26 <em>in class</em></li>
+  <li><strong>Design Doc Due:</strong> 03/28, 11:59pm</li>
 </ul>
 
 <h2 id="overview">Overview</h2>
-<p>In this design sprint, you will build an interface that prioritizes <em>fun</em>. To do this, you have two options, both which will use <a href="https://www.leapmotion.com/">Leap Motion Controllers</a>:</p>
+<p>In this design sprint, you will build an interface that prioritizes <em>expression</em>. To do this, you have a few options, some of which will use <a href="https://www.leapmotion.com/">Leap Motion Controllers</a>:</p>
 
 <ol>
-  <li>Choose an existing game/application on the web, and then remap the controls from keyboard/mouse to a 3D user interfaces using Leap Motion. Since you are not responsible for the generation of content, this will allow you to focus your design on the input.</li>
-  <li>If you want to experiment with a more expressive (maybe audio?) output, you can use <a href="http://www.wekinator.org/">Wekinator</a> with <a href="https://www.leapmotion.com/">Leap Motion Controllers</a> as its primary input (see this <a href="http://www.wekinator.org/examples/#Leap_Motion_hardware_sensor">demo code on wekinator’s website</a>). You can choose the output.</li>
+  <li>
+    <p>Choose an existing game/application on the web, and then remap the controls from keyboard/mouse to a 3D user interfaces using Leap Motion. Since you are not responsible for the generation of content, this will allow you to focus your design on the input. <em>There are notes on using Leap Motion at the bottom of this document</em></p>
+  </li>
+  <li>
+    <p>If you want to experiment with a more expressive (maybe audio?) output, you can use <a href="http://www.wekinator.org/">Wekinator</a> with <a href="https://www.leapmotion.com/">Leap Motion Controllers</a> as its primary input (see this <a href="http://www.wekinator.org/examples/#Leap_Motion_hardware_sensor">demo code on wekinator’s website</a>). You can choose the output.</p>
+  </li>
+  <li>
+    <p>If you would like something that is not dependent on the Leap Motion hardware (easier to demo and show off to people in the future), you can use the posenet library combined with p5js. You can see <a href="https://editor.p5js.org/evanpeck/sketches/SJmcoWcpm">a quick, silly demo I created</a> in a few minutes to experiment with the library. You may also want to look at this <a href="https://ml5js.org/docs/posenet-webcam">template code</a>. For a slower introduction, watch this <a href="https://www.youtube.com/watch?v=EA3-k9mnLHs">Hour of Code video</a> that used posenet.</p>
+  </li>
 </ol>
 
 <p>In either case, your design goal is simply to maximize the enjoyment that people have with your app.</p>
 
-<p><strong>Note:</strong> Think about how you want to document your design process. For example, given the physical nature of 3D UIs, you may need to</p>
+<p><strong>Note:</strong> Think about how you want to document your design process. For example, given the physical nature of 3D UIs, you may need to rely more on videos and pictures than your previous design activities.</p>
+
+<h3 id="examples">Examples</h3>
+<p>Here are a couple of examples from the last time this course was run. Some writeups:</p>
+<ul>
+  <li><a href="https://medium.com/bucknell-hci/turning-hand-gestures-into-game-controls-temple-run-2-0-2229930a639d">Temple Run</a> and their <a href="https://github.com/pjo006/LeapMotion">repository</a></li>
+  <li><a href="https://medium.com/bucknell-hci/a-nostalgic-design-for-fun-mario-kart-64-52cb91a57bf3">Mario Kart 64</a> and their <a href="https://github.com/BenMatase/DesignForFun">repository</a></li>
+</ul>
+
+<p>And some more videos from Bucknell students:</p>
+<ul>
+  <li><a href="https://www.youtube.com/watch?time_continue=19&amp;v=CC9RBx1hKwc">Theramin</a></li>
+  <li><a href="https://www.youtube.com/watch?v=xq6dbutzlDs">Asteroids</a></li>
+</ul>
 
 <h3 id="ideation">Ideation</h3>
 
@@ -148,9 +167,9 @@
 
 <p>In most of our assignments so far, I have had you ideate without the burden or limitations of the technology. However, in this case, your hardware (monitor size, for example) is likely to have a significant impact on interaction. In addition, the Leap Motions may surprise you in the ways that they are accurate and/or inaccurate.</p>
 
-<p>I would recommend that you get a rough sense of the Leap Motion’s capabilities right from the start - perhaps assigning a person or two on your team to begin playing with the devices while the rest of your group brainstorms.</p>
+<p>I would recommend that you get a rough sense of your tech’s capabilities right from the start - perhaps assigning a person or two on your team to begin playing with the devices while the rest of your group brainstorms.</p>
 
-<p><strong>Remember:</strong> Note that the goal of <strong>fun</strong> is different than an efficient or usable interface.</p>
+<p><strong>Remember:</strong> Note that the goal of <strong>fun</strong> or <strong>expression</strong> is different than an efficient or usable interface.</p>
 
 <p>Your brainstorming shouldn’t consist of just writing down sketches and trying to intellectually determine ‘fun’. Do it! Try the gestures yourselves! Fun isn’t just embedded in the application, but in the interaction design… are some motions more fun/engaging than others, even if they might be less accurate?</p>
 
@@ -164,16 +183,6 @@
 
 <p>For an example, see the <a href="https://drive.google.com/open?id=0B9wW7gtF6dvRa3M1ZUVhTGMtMnc">in-class prototyping we did in HCI during Spring 2016</a>. In this video, a student in the bottom left corner (only occasionally in the screen) is hitting buttons while the participant jumps and punches to play <a href="http://www.adultswim.com/games/web/robot-unicorn-attack">Robot Unicorn Attack</a>.</p>
 
-<h3 id="build-it-and-test-it">Build It and Test It</h3>
-<p>There are a couple of files that you may want to download:</p>
-
-<ol>
-  <li><a href="https://drive.google.com/open?id=0B9wW7gtF6dvRZ0pyVEVzdnE5UFk">Leap Motion Java Template Code</a></li>
-  <li><a href="https://drive.google.com/open?id=0B9wW7gtF6dvRLUxGdnpnQzVFZGM">Sample Projects in which Leap Motion is substituted for controls on various websites and games</a></li>
-</ol>
-
-<p>See the hints created by Gabbi below about compiling and running Leap Motion programs. As much as you can, don’t forget to test with real people!</p>
-
 <h3 id="deliverables">Deliverables</h3>
 <ul>
   <li>As always: Your design reflection as a Medium blog post. <strong>You WILL need a demo video</strong>.</li>
@@ -183,11 +192,19 @@
 <h2 id="using-the-leap-motion">Using the Leap Motion</h2>
 <p>See the preliminary tips for Leap Motion provided by Gabbi LaBorwit’s (‘20) experience trying to complete this assignment.</p>
 
-<h3 id="getting-started"><strong>Getting Started</strong></h3>
+<p><strong>FIRST</strong> <a href="https://developer.leapmotion.com/sdk/v2">Download the SDK.</a>. Note that you’ll be using <a href="https://developer-archive.leapmotion.com/documentation/v2/java/index.html">version 2 of their SDK and documentation</a></p>
+
+<p><strong>NEXT</strong> The <a href="https://gallery.leapmotion.com/">Leap Motion gallery</a> has a number of examples. It might be a good idea to filter based on your OS by using an advanced search. For example, I found  <a href="https://gallery.leapmotion.com/flocking/">Flockless</a> to be a nice one to play around with and get a sense of some of the tracking abilities of Leap motion.</p>
+
+<h4 id="make-a-program">Make a program</h4>
+
 <ul>
-  <li><a href="https://developer.leapmotion.com/sdk/v2">Download</a> the SDK.</li>
   <li>
-    <p>Create a Java program that turns your hand into a virtual mouse/scroll bar by following <a href="https://www.youtube.com/watch?v=ucttSu-XPb8&amp;list=PLgTGpidiW0iQGk-zYzmcDw6XtEMYh69j4&amp;index=11">this tutorial</a>. Use the <code class="highlighter-rouge">template</code> folder provided to work in, and the file labelled <code class="highlighter-rouge">template.java</code> to code in.</p>
+    <p><a href="https://drive.google.com/open?id=0B9wW7gtF6dvRZ0pyVEVzdnE5UFk">Leap Motion Java Template Code</a>. (It might also be worth comparing this code with last year’s <a href="https://github.com/pjo006/LeapMotion"><em>Temple Run</em> leap motion code</a>)</p>
+  </li>
+  <li>
+    <p>If you’d like to follow a tutorial first, you can create a Java program that turns your hand into a virtual mouse/scroll bar by following
+ <a href="https://www.youtube.com/watch?v=ucttSu-XPb8&amp;list=PLgTGpidiW0iQGk-zYzmcDw6XtEMYh69j4&amp;index=11">this tutorial</a>. Use the <code class="highlighter-rouge">template</code> folder provided to work in, and the file labelled <code class="highlighter-rouge">template.java</code> to code in.</p>
   </li>
   <li><em>Note</em>: You’ll need to rename the Java file to whatever you name your main function (a class in this case). If you’re unsure where this is, look at the comment explanation towards the bottom of your template document.
     <ul>

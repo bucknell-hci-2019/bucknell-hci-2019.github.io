@@ -125,6 +125,18 @@ _Prof. Peck is gone at SIGCSE 2019_
 
 Pick your 3 favorites. Google them and try to find a demo video (or at least a paper reference). Paste those into the `#resources` channel on Slack.
 
+## Week 9: Spring Break
+- Sleep
+- Eat
+- Enjoy good company
+
+## Week 10: All kinds of Input
+
+#### Tu. 3/19 **| Hands and Body**
+- READ 2 Chapters (both short): [Hands](http://faculty.washington.edu/ajko/books/uist/hands.html) and [Bodies](http://faculty.washington.edu/ajko/books/uist/body.html) in Andrew J. Ko's book on _User Interface Software and Technology_.
+- WATCH (8 min): [Bill Buxton on Natural User Interfaces](https://www.youtube.com/watch?v=NcdrfacG_y4)
+- READ (7 pages): [Make Things Engaging](https://drive.google.com/open?id=0B9wW7gtF6dvRd0lrQUlpQVBHczg)
+- READ (twitter thread): [Criticism about in-air interfaces](https://twitter.com/oulasvirta/status/1103298711382380545) in AR/VR by [Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Make sure you click the links and see the research this criticism is based on. 
 
 <!-- ## Week 6
 

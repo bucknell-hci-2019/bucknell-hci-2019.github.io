@@ -29,7 +29,7 @@ _For examples of student work, see our [CSCI379 publication](https://medium.com/
 - [Good Design, Bad Design](designs/goodbad_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknellhci19/wikis/goodbaddesign) \| _Due 1/22, 2:00pm_
 - [Design for Others](designs/visual_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknellhci19/wikis/design%20for%20others) \| _Demo 2/05_ \| _Doc 2/07_
  - [Design for Understanding](designs/datavis_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknellhci19/wikis/design%20for%20understanding) \| _Demo 2/21_ \| _Doc 2/26_
-
+- [Design for Expression/Fun](designs/gesture_assn.html) **->** submit \| _Demo 3/26_ \| _Doc 3/28_
 
 <!-- - [Design for Tension](designs/chatbot_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-tension) \| _Demo 10/12_ \| _Doc 10/15 (11pm)_
 - [Design for Fun](designs/gesture_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-fun) \| _10/26_ \| _10/29_

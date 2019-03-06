@@ -4,30 +4,40 @@ title: Design for Fun or Expression
 exclude: true
 ---
 
-- **Group size:** Teams of 4
-- **Demo Day:** 10/26 _in class_
-- **Design Doc Due:** 10/29, 11pm
+- **Demo Day:** 03/26 _in class_
+- **Design Doc Due:** 03/28, 11:59pm
 
 ## Overview
-In this design sprint, you will build an interface that prioritizes _fun_. To do this, you have two options, both which will use [Leap Motion Controllers](https://www.leapmotion.com/):
+In this design sprint, you will build an interface that prioritizes _expression_. To do this, you have a few options, some of which will use [Leap Motion Controllers](https://www.leapmotion.com/):
 
-1. Choose an existing game/application on the web, and then remap the controls from keyboard/mouse to a 3D user interfaces using Leap Motion. Since you are not responsible for the generation of content, this will allow you to focus your design on the input.
+1. Choose an existing game/application on the web, and then remap the controls from keyboard/mouse to a 3D user interfaces using Leap Motion. Since you are not responsible for the generation of content, this will allow you to focus your design on the input. _There are notes on using Leap Motion at the bottom of this document_
+
 2. If you want to experiment with a more expressive (maybe audio?) output, you can use [Wekinator](http://www.wekinator.org/) with [Leap Motion Controllers](https://www.leapmotion.com/) as its primary input (see this [demo code on wekinator's website](http://www.wekinator.org/examples/#Leap_Motion_hardware_sensor)). You can choose the output.
+
+3. If you would like something that is not dependent on the Leap Motion hardware (easier to demo and show off to people in the future), you can use the posenet library combined with p5js. You can see [a quick, silly demo I created](https://editor.p5js.org/evanpeck/sketches/SJmcoWcpm) in a few minutes to experiment with the library. You may also want to look at this [template code](https://ml5js.org/docs/posenet-webcam). For a slower introduction, watch this [Hour of Code video](https://www.youtube.com/watch?v=EA3-k9mnLHs) that used posenet.
 
 In either case, your design goal is simply to maximize the enjoyment that people have with your app.  
 
-**Note:** Think about how you want to document your design process. For example, given the physical nature of 3D UIs, you may need to
+**Note:** Think about how you want to document your design process. For example, given the physical nature of 3D UIs, you may need to rely more on videos and pictures than your previous design activities.
+
+### Examples
+Here are a couple of examples from the last time this course was run. Some writeups:
+- [Temple Run](https://medium.com/bucknell-hci/turning-hand-gestures-into-game-controls-temple-run-2-0-2229930a639d) and their [repository](https://github.com/pjo006/LeapMotion)
+- [Mario Kart 64](https://medium.com/bucknell-hci/a-nostalgic-design-for-fun-mario-kart-64-52cb91a57bf3) and their [repository](https://github.com/BenMatase/DesignForFun)
+
+And some more videos from Bucknell students:
+- [Theramin](https://www.youtube.com/watch?time_continue=19&v=CC9RBx1hKwc)
+- [Asteroids](https://www.youtube.com/watch?v=xq6dbutzlDs)
 
 ### Ideation
 
 > In traditional UIs, we usually try to design without regard for the display or the input device (i.e., display- and device-independence) ... But in 3D UIs, what works on one display or with one device very rarely works exactly the same way on different systems. - Doug Bowman, 3D User Interfaces
 
-
 In most of our assignments so far, I have had you ideate without the burden or limitations of the technology. However, in this case, your hardware (monitor size, for example) is likely to have a significant impact on interaction. In addition, the Leap Motions may surprise you in the ways that they are accurate and/or inaccurate.
 
-I would recommend that you get a rough sense of the Leap Motion's capabilities right from the start - perhaps assigning a person or two on your team to begin playing with the devices while the rest of your group brainstorms.
+I would recommend that you get a rough sense of your tech's capabilities right from the start - perhaps assigning a person or two on your team to begin playing with the devices while the rest of your group brainstorms.
 
-**Remember:** Note that the goal of **fun** is different than an efficient or usable interface.
+**Remember:** Note that the goal of **fun** or **expression** is different than an efficient or usable interface.
 
 Your brainstorming shouldn't consist of just writing down sketches and trying to intellectually determine 'fun'. Do it! Try the gestures yourselves! Fun isn't just embedded in the application, but in the interaction design... are some motions more fun/engaging than others, even if they might be less accurate?
 
@@ -37,17 +47,7 @@ Before you build it, [Wizard-of-Oz](http://www.usabilitynet.org/tools/wizard.htm
 - Have a participant use those actions to interact with the game. The participant should be looking at the application monitor, but someone in YOUR group (_the controller_) should have access to the keyboard/mouse.
 - _The controller_ should ONLY look at your participant, NOT the screen. When the participant performs an action, the controller hits the corresponding button (or move the mouse). While you may not be quite as responsive as the leap motion, it will let other people experiment with your design.
 
-
 For an example, see the [in-class prototyping we did in HCI during Spring 2016](https://drive.google.com/open?id=0B9wW7gtF6dvRa3M1ZUVhTGMtMnc). In this video, a student in the bottom left corner (only occasionally in the screen) is hitting buttons while the participant jumps and punches to play [Robot Unicorn Attack](http://www.adultswim.com/games/web/robot-unicorn-attack).
-
-
-### Build It and Test It
-There are a couple of files that you may want to download:
-
-1. [Leap Motion Java Template Code](https://drive.google.com/open?id=0B9wW7gtF6dvRZ0pyVEVzdnE5UFk)
-2. [Sample Projects in which Leap Motion is substituted for controls on various websites and games](https://drive.google.com/open?id=0B9wW7gtF6dvRLUxGdnpnQzVFZGM)
-
-See the hints created by Gabbi below about compiling and running Leap Motion programs. As much as you can, don't forget to test with real people!
 
 
 ### Deliverables
@@ -59,9 +59,17 @@ See the hints created by Gabbi below about compiling and running Leap Motion pro
 ## Using the Leap Motion
 See the preliminary tips for Leap Motion provided by Gabbi LaBorwit's ('20) experience trying to complete this assignment.
 
-### __Getting Started__
-  - [Download](https://developer.leapmotion.com/sdk/v2) the SDK.
-  - Create a Java program that turns your hand into a virtual mouse/scroll bar by following [this tutorial](https://www.youtube.com/watch?v=ucttSu-XPb8&list=PLgTGpidiW0iQGk-zYzmcDw6XtEMYh69j4&index=11). Use the `template` folder provided to work in, and the file labelled `template.java` to code in.
+**FIRST** [Download the SDK.](https://developer.leapmotion.com/sdk/v2). Note that you'll be using [version 2 of their SDK and documentation](https://developer-archive.leapmotion.com/documentation/v2/java/index.html)
+
+**NEXT** The [Leap Motion gallery](https://gallery.leapmotion.com/) has a number of examples. It might be a good idea to filter based on your OS by using an advanced search. For example, I found  [Flockless](https://gallery.leapmotion.com/flocking/) to be a nice one to play around with and get a sense of some of the tracking abilities of Leap motion.
+
+
+#### Make a program
+
+- [Leap Motion Java Template Code](https://drive.google.com/open?id=0B9wW7gtF6dvRZ0pyVEVzdnE5UFk). (It might also be worth comparing this code with last year's [_Temple Run_ leap motion code](https://github.com/pjo006/LeapMotion))
+
+- If you'd like to follow a tutorial first, you can create a Java program that turns your hand into a virtual mouse/scroll bar by following
+ [this tutorial](https://www.youtube.com/watch?v=ucttSu-XPb8&list=PLgTGpidiW0iQGk-zYzmcDw6XtEMYh69j4&index=11). Use the `template` folder provided to work in, and the file labelled `template.java` to code in.
 
 - *Note*: You'll need to rename the Java file to whatever you name your main function (a class in this case). If you're unsure where this is, look at the comment explanation towards the bottom of your template document.
     - The template file provided gives some explanations, but it may be useful to look over the following section for more detailed explanations on some of the more important functions.
