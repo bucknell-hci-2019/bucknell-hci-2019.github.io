@@ -132,11 +132,27 @@ Pick your 3 favorites. Google them and try to find a demo video (or at least a p
 
 ## Week 10: All kinds of Input
 
-#### Tu. 3/19 **| Hands and Body**
+#### Tu 3/19 **| Hands and Body**
 - READ 2 Chapters (both short): [Hands](http://faculty.washington.edu/ajko/books/uist/hands.html) and [Bodies](http://faculty.washington.edu/ajko/books/uist/body.html) in Andrew J. Ko's book on _User Interface Software and Technology_.
 - WATCH (8 min): [Bill Buxton on Natural User Interfaces](https://www.youtube.com/watch?v=NcdrfacG_y4)
 - READ (7 pages): [Make Things Engaging](https://drive.google.com/open?id=0B9wW7gtF6dvRd0lrQUlpQVBHczg)
-- READ (twitter thread): [Criticism about in-air interfaces](https://twitter.com/oulasvirta/status/1103298711382380545) in AR/VR by [Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Make sure you click the links and see the research this criticism is based on. 
+- READ (twitter thread): [Criticism about in-air interfaces](https://twitter.com/oulasvirta/status/1103298711382380545) in AR/VR by [Antti Oulasvirta](http://users.comnet.aalto.fi/oulasvir/). Make sure you click the links and see the research this criticism is based on.
+
+#### Th 3/21 **| Design for Expression Work Day**
+- _Work on Design for Expression_
+- Additional Design Principle Resources (OPTIONAL):
+  - [Input Technologies and Techniques (Hinckley and Wigdor)](https://drive.google.com/open?id=0B9wW7gtF6dvROWZXYTVpSzVoaE0)
+  - [3D User Interfaces by Doug Bowman (32.1-2, 32.4-5)](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/3d-user-interfaces)
+
+
+## Week 11: Accessibility + VR Launch
+
+#### Tu 3/26 **| Design for Expression Demo Day**
+- **DUE:** [Design for Expression Demo Day](../designs/gesture_assn.html)
+- READ: [Accessibility Overview (Do not do exercises)](http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/)
+
+
+
 
 <!-- ## Week 6
 
