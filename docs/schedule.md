@@ -145,11 +145,25 @@ Pick your 3 favorites. Google them and try to find a demo video (or at least a p
   - [3D User Interfaces by Doug Bowman (32.1-2, 32.4-5)](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/3d-user-interfaces)
 
 
-## Week 11: Accessibility + VR Launch
+## Week 11: Accessibility
 
 #### Tu 3/26 **| Design for Expression Demo Day**
 - **DUE:** [Design for Expression Demo Day](../designs/gesture_assn.html)
 - READ: [Accessibility Overview (Do not do exercises)](http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/)
+
+#### Th 3/28 **| Design for Expression Design Doc**
+- **NOT due (moved to Sunday at 5pm):** [Design for Expression Design Doc](../designs/gesture_assn.html)
+- 2 Questions for [Chloe Fan](https://www.chloefan.com/) - Product Designer at Uber
+- _Mini Assignment_
+  - [Watch this video about a sidewalk accessibility project](https://www.youtube.com/watch?v=_GBLqZDXB_0)
+  - For 24 hours, walk around town/campus **only** using handicap accessible pathways. No stairs inside (not even tiny steps). No hopping onto curves outside. Use only paved paths and sidewalks.  
+  - Annotate our [crowdsourced map](https://drive.google.com/a/bucknell.edu/open?id=13b0g6_V38N6N2Lo1cVV0qU5032N7Oyq5&usp=sharing) with the following:
+    - _At least_ 2-3 accessible 'options' that no other student has added. This can be an entrance to a build (see example), good crosswalk location, powered doors, etc.
+    - _At least_ 2-3 problematic areas that you found. For example, you can't enter through the front of Dana because of steps.
+    - For each problem, create a marker with an appropriate symbol
+      - Include an image
+      - Include a text description
+    - After you added markers, tell me which ones you added [on this form](https://goo.gl/forms/7lBLuLNyu2K8n2wJ2)
 
 
 
