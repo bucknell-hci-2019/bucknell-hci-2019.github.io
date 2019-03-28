@@ -165,7 +165,19 @@ Pick your 3 favorites. Google them and try to find a demo video (or at least a p
       - Include a text description
     - After you added markers, tell me which ones you added [on this form](https://goo.gl/forms/7lBLuLNyu2K8n2wJ2)
 
+## Week 12: Virtual Reality
 
+#### Tu. 4/02 **| Virtual Reality (+ some Augmented Reality)**
+- READ (7 min): [Applying human-centered design to emerging technologies (IDEO)](https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30)
+- READ (20 pages): [Virtual Reality Introduction by Steven M. LaValle](http://vr.cs.uiuc.edu/vrch1.pdf)
+- READ (7 minutes): [Design Practices in Virtual Reality](https://uxdesign.cc/design-practices-in-virtual-reality-f900f5935826)
+- READ (short): [AR Human Interface guidelines by Apple](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/)
+
+_SKIM OVER THE FOLLOWING FOR IDEAS!_
+- [Opioids haven't solved Chronic Pain. Maybe Virtual Reality Can (WIRED)](https://www.wired.com/story/opioids-havent-solved-chronic-pain-maybe-virtual-reality-can/)
+- ['After I feel ecstatic and emotional': Could Virtual Reality Replace Therapy](https://www.theguardian.com/technology/2017/oct/07/virtual-reality-acrophobia-paranoia-fear-of-flying-ptsd-depression-mental-health)
+- [Can VR Really Make You More Empathetic? (WIRED)](https://www.wired.com/2016/09/can-vr-really-make-people-empathetic/?mbid=social_twitter)
+- [VRST 2017 Technical Papers Preview](https://www.youtube.com/watch?v=zd5zNo8vQEk&feature=youtu.be)
 
 
 <!-- ## Week 6
