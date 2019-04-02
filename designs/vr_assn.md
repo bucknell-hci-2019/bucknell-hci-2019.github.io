@@ -5,10 +5,23 @@ exclude: true
 ---
 
 - **Group size:** Teams of 4
-- **Demo Day:** 11/30 _in class_
-- **Design Doc Due:** 12/03, 11pm
+- **Demo Day:** TODO
+- **Design Doc Due:** TODO
 
 In this design sprint, we will be **exploring virtual reality to consider what it will be like when computation can transport us to another place.** Transport someone to a real location, inside a game, among abstract art... whatever you think would be interesting, immersive, and compelling!
+
+### The Design Process
+To start out this design sprint you should....
+
+...
+
+...
+
+...
+
+...
+
+We're getting towards last third of the semester, which means it's time for me to stop telling you how to apply the design process. Instead, you'll need to work out yourself how best to **ideate**, **prototype**, and **test** in a new domain. _This is the most important outcome of the course_. Technology will rapidly on shift and move for years after you leave Bucknell. If you can leave HCI with a process and methodology that informs _good design_ in any context, then this course is a success.
 
 As your final design sprint of the semester, consider this to be your most open-ended assignment. You pick your objective, you decide how to design for it, you decide what to build.
 
@@ -27,7 +40,9 @@ A couple of quick pointers before you start:
 
 [A-Frame](https://aframe.io/) is a simple, web-based design platform that uses HTML to create VR scenes. In addition, a companion website - [Glitch](https://glitch.com/) - provides a fantastic web-based development environment that will allow you to see your code + output simultaneously. Although the building blocks of aframe are basic, don't underestimate its powerful potential. Before you start, [check out all of the interesting work people in the AFrame community are up to](https://aframe.io/blog/).
 
-There are a number of resources to get you up to speed - [aframe school](https://aframe.io/aframe-school), [aframe slack](https://aframevr-slack.herokuapp.com/), and various other tutorials blog posts if you simply Google _aframe_
+There are a number of resources to get you up to speed:
+ - [aframe school](https://aframe.io/aframe-school)
+ - [aframe slack](https://aframe.io/slack-invite/)
 
 Finally, if you really want something interactive, you could explore [integrating the Leap Motion with AFrame](https://github.com/openleap/aframe-leap-hands). _Note: I HAVE NOT TRIED THIS, so it's difficult for me to gauge how difficult this integration is_
 
@@ -65,5 +80,5 @@ _Some tips from Gabbi LaBorwit ('20)_
 - You can use this [tutorial](https://aframe.io/docs/0.5.0/guides/building-a-basic-scene.html) to build a basic scene and go from there, too.
 - Scroll down the left-sidebar on the [documentation](https://aframe.io/docs/0.5.0/introduction/) page to find a bunch of tutorials for animations, sound, and more.
 - Some cool [animations](https://aframe.io/docs/0.5.0/core/animations.html#direction_alternate) to play with.
-- To take your own 360º picture download the free app on an iPhone called "360 Panorama" by Occipital, Inc and send  yourself the photo to get it on your computer. An [example](https://ambiguous-hare.glitch.me/) I made.
+- To take your own 360 degree picture download the free app on an iPhone called "360 Panorama" by Occipital, Inc and send  yourself the photo to get it on your computer. An [example](https://ambiguous-hare.glitch.me/) I made.
 - *Interacting with objects*: If you want to be able to click on objects or do things when you look at an object, look at this [tutorial](https://www.youtube.com/watch?v=yM89f0GLzB0) on youtube as well as the [code](https://github.com/SonarSystems/A-Frame-WebVR-Tutorials/blob/master/%5B6%5D%20Interacting%20With%20Objects/index.html) that comes with it.

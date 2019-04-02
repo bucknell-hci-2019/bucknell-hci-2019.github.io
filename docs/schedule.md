@@ -179,6 +179,10 @@ _SKIM OVER THE FOLLOWING FOR IDEAS!_
 - [Can VR Really Make You More Empathetic? (WIRED)](https://www.wired.com/2016/09/can-vr-really-make-people-empathetic/?mbid=social_twitter)
 - [VRST 2017 Technical Papers Preview](https://www.youtube.com/watch?v=zd5zNo8vQEk&feature=youtu.be)
 
+#### Th. 4/04 **| One day VR Hack**
+_Designing for VR Intro_
+- WATCH: [Can Virtual Reality Change Your Mind](https://www.youtube.com/watch?v=eFHj8OVC1_s)
+- READ: [Dystopian Virtual Reality is Finally Here (Ian Bogost)](https://www.theatlantic.com/technology/archive/2016/03/virtual-reality-is-just-television-for-the-computer-junkie/475632/)
 
 <!-- ## Week 6
 
