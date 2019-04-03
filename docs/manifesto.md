@@ -33,7 +33,7 @@ Your takeaways should be evidence-driven. That means that when you discuss these
 You will create a homepage of some kind that demonstrates each of your projects. The design of the page itself is up to you, but it should be polished and match the tone/mood you would like to set for a public-facing entity.
 
 At a minimum, the page must:
-- Link to at least 4 of the 6 medium posts from your projects this semester.
+- Link to the 4 medium posts from your projects this semester.
 - Include basic information about yourself.
 
 **Note:** Because you are linking to Medium, you may want to consider how the design of your webpage compliments or clashes with the design of Medium as a platform.

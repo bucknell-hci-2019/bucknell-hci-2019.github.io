@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Design for Another World
+title: Design for Aspirational VR
 exclude: true
 ---
 
 - **Group size:** Teams of 4
-- **Demo Day:** TODO
-- **Design Doc Due:** TODO
+- **Demo Day:** 4/23
+- **Design Doc Due:** 4/26 11pm
 
-In this design sprint, we will be **exploring virtual reality to consider what it will be like when computation can transport us to another place.** Transport someone to a real location, inside a game, among abstract art... whatever you think would be interesting, immersive, and compelling!
+In this design sprint, what we called in class **aspirational VR.** There are many possible applications and futures for VR. Some are hopeful and exciting, others nudge us closer to a what feels like a dystopian relationship with technology.
+
+The goal of this design module is to _design something that embodies what we think VR **should** be_.
+
 
 ### The Design Process
 To start out this design sprint you should....
@@ -29,7 +32,7 @@ That's it.
 
 A couple of quick pointers before you start:
 - **Be sure to articulate your design goal EARLY.** Without an objective for your design, much of your process will be unguided. When I look at your output, I will consider them _within the context of your design goal_. If your goal is to provide a sense of awe or provoke reflection or make someone feel like they are truly in another physical place... any of that is fine. The key is that you articulate your goal and make design decisions that align with that objective.
-- **Consider what will make your design feel immersive.** This is your primary challenge, and it's worth thinking beyond visual channels. How could audio enhance your design?
+- **Consider what will make your design feel immersive.** This is your primary challenge, and it's worth thinking beyond visual channels. For example, how could audio enhance your design?
 - **Careful with interaction.** Because of time and hardware limitations (you'll be using [aframe](https://aframe.io/) + [Google cardboard](https://vr.google.com/cardboard/)), consider what input mechanisms you may even have available to you before getting too deep into the development.
 
 ### Deliverables
@@ -46,8 +49,8 @@ There are a number of resources to get you up to speed:
 
 Finally, if you really want something interactive, you could explore [integrating the Leap Motion with AFrame](https://github.com/openleap/aframe-leap-hands). _Note: I HAVE NOT TRIED THIS, so it's difficult for me to gauge how difficult this integration is_
 
-#### Getting Familiar with AFrame
-_Some tips from Gabbi LaBorwit ('20)_
+### Getting Familiar with AFrame
+_Some notes from Gabbi LaBorwit's ('20) experience_
 
   1. Take a few minutes to play with the examples provided on A-Frame's [home page](https://aframe.io/examples/showcase/helloworld/).
   2. Once you've looked around, go to the first example called "Hello WebVR" and click "Visual Inspector" in the top right-hand corner. Two boxes should pop up containing the source code and each HTML element's properties.
