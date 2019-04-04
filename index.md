@@ -30,11 +30,12 @@ _For examples of student work, see our [CSCI379 publication](https://medium.com/
 - [Design for Others](designs/visual_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknellhci19/wikis/design%20for%20others) \| _Demo 2/05_ \| _Doc 2/07_
  - [Design for Understanding](designs/datavis_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknellhci19/wikis/design%20for%20understanding) \| _Demo 2/21_ \| _Doc 2/26_
 - [Design for Expression/Fun](designs/gesture_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknellhci19/wikis/design-for-expression) \| _Demo 3/26_ \| _Doc 3/31_
+- [Design the Future](designs/vr_assn.html) **->** submit \| _4/23_ \| _4/26_  -->
 
 <!-- - [Design for Tension](designs/chatbot_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-tension) \| _Demo 10/12_ \| _Doc 10/15 (11pm)_
 - [Design for Fun](designs/gesture_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-fun) \| _10/26_ \| _10/29_
 - [Design for Wellbeing](designs/emotion_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-wellbeing) \| _11/09_ \| _11/12_
-- [Design for Another World](designs/vr_assn.html) **->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-another-world) \| _11/30_ \| _12/03_  -->
+
 
 **Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of our finals slot_
 

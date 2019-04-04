@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design for Aspirational VR
+title: Design the Future
 exclude: true
 ---
 
@@ -33,7 +33,7 @@ That's it.
 A couple of quick pointers before you start:
 - **Be sure to articulate your design goal EARLY.** Without an objective for your design, much of your process will be unguided. When I look at your output, I will consider them _within the context of your design goal_. If your goal is to provide a sense of awe or provoke reflection or make someone feel like they are truly in another physical place... any of that is fine. The key is that you articulate your goal and make design decisions that align with that objective.
 - **Consider what will make your design feel immersive.** This is your primary challenge, and it's worth thinking beyond visual channels. For example, how could audio enhance your design?
-- **Careful with interaction.** Because of time and hardware limitations (you'll be using [aframe](https://aframe.io/) + [Google cardboard](https://vr.google.com/cardboard/)), consider what input mechanisms you may even have available to you before getting too deep into the development.
+- **Careful with interaction.** Because of time and hardware limitations (you'll be using [aframe](https://aframe.io/) + [Google cardboard](https://vr.google.com/cardboard/)), consider what input mechanisms you may even have available to you before getting too deep into the development. _As always, you are free to use other technology instead. But if you don't have experience in VR, these are recommended_
 
 ### Deliverables
 - As always: Your design reflection as a Medium blog post. **You WILL need a demo video**.
