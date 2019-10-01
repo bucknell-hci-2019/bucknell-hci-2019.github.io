@@ -25,8 +25,8 @@ title: Schedule
 
 #### Tu. 1/22 **| Need finding + Task Analysis**
 - **DUE:** [Good/Bad Design](../designs/goodbad_assn.html) (don't forget to bring printouts)
-- READ: [How to Understand Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-understand-problems.html)
-- READ: [How to Define Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html)
+- READ: [How to Understand Problems by Amy J. Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-understand-problems.html)
+- READ: [How to Define Problems by Amy J. Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html)
 
 _OPTIONAL (Look through at least 1 of the following)_
 - WATCH (4 minutes): [EXAMPLE: Contextual Inquiry: Workforce Mobility](https://www.youtube.com/watch?v=Gd5fA9UQDjE)
@@ -39,8 +39,8 @@ _OPTIONAL (Look through at least 1 of the following)_
 
 #### Th. 1/24 **| Prototyping + Ideation**
 - **ASSIGNED:** [_Design For Others_](../designs/visual_assn.html) Design Sprint
-- READ: [How to be Creative by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html)
-- READ: [How to Prototype by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html)
+- READ: [How to be Creative by Amy J. Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html)
+- READ: [How to Prototype by Amy J. Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html)
 - READ (17 pages): [The anatomy of sketching (Bill Buxton)](https://drive.google.com/open?id=0B9wW7gtF6dvRX2U0UDZIemgxN3c)
 
 _OPTIONAL (Look through at least 1 of the following)_
@@ -53,7 +53,7 @@ _OPTIONAL (Look through at least 1 of the following)_
 ## Week 3: Designing for People
 
 #### Tu. 1/29 **| Human Abilities + Interface Design Lecture**
-- READ: [A Theory of User Interfaces (Andy Ko)](https://faculty.washington.edu/ajko/books/uist/theory.html)
+- READ: [A Theory of User Interfaces (Amy J. Ko)](https://faculty.washington.edu/ajko/books/uist/theory.html)
 - READ: [Human Abilities](https://www.kixlab.org/courses/cs374-spring-2018/classes/12-Human-Abilities/) (don't answer the questions!)
 
 _OPTIONAL (Look through at least 1 of the following)_
