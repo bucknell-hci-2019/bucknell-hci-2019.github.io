@@ -58,7 +58,7 @@ title: Resources
 - [Google Design Resources:](https://design.google/resources/) big repository of all kinds of design resources from Google
 - [How to Conduct a Heuristic Evaluation:](https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation?utm_source=facebook&utm_medium=sm)
 a quick and dirty set of guidelines to think about when creating a user interfaces
-- [Design Methods (by Andy Ko):](http://faculty.washington.edu/ajko/books/design-methods/)
+- [Design Methods (by Amy Ko)](http://faculty.washington.edu/ajko/books/design-methods/)
 - [Clean Up Your Mess: A Guide to Visual Design for Everyone:](http://www.visualmess.com/) a good, quick 'how-to' guide for visual design
 
 ### Visualization Tools
